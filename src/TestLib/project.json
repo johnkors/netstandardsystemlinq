@@ -1,0 +1,15 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+  },
+
+  "frameworks": {
+    "netstandard1.0": {
+      "imports": "dnxcore50",
+      "dependencies": {
+        "System.ObjectModel": "4.0.0"
+      }
+    }
+  }
+}
