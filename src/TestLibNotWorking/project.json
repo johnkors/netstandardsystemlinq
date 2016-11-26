@@ -9,7 +9,7 @@
       "imports": [ "dnxcore50" ],
       "dependencies": {
         "System.ObjectModel": "4.0.0",
-        "System.Linq": "4.0.0"
+        "System.Linq": "4.1.0"
       }
     }
   }

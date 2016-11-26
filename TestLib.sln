@@ -10,7 +10,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TestLib", "src\TestLib\TestLib.xproj", "{471E5AD1-D3DD-469A-8E48-ADFB8A1403EE}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TestLibWorking", "src\TestLib\TestLibWorking.xproj", "{471E5AD1-D3DD-469A-8E48-ADFB8A1403EE}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TestLibNotWorking", "src\TestLibNotWorking\TestLibNotWorking.xproj", "{6E04FBDC-9B8C-4EA2-9623-08EB36160C65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,11 +24,16 @@ Global
 		{471E5AD1-D3DD-469A-8E48-ADFB8A1403EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{471E5AD1-D3DD-469A-8E48-ADFB8A1403EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{471E5AD1-D3DD-469A-8E48-ADFB8A1403EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E04FBDC-9B8C-4EA2-9623-08EB36160C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E04FBDC-9B8C-4EA2-9623-08EB36160C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E04FBDC-9B8C-4EA2-9623-08EB36160C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E04FBDC-9B8C-4EA2-9623-08EB36160C65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{471E5AD1-D3DD-469A-8E48-ADFB8A1403EE} = {CC92D1CA-0E2E-431E-83AD-19DF885E03D9}
+		{6E04FBDC-9B8C-4EA2-9623-08EB36160C65} = {CC92D1CA-0E2E-431E-83AD-19DF885E03D9}
 	EndGlobalSection
 EndGlobal

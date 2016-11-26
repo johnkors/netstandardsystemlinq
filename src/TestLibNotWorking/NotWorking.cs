@@ -1,10 +1,10 @@
 ﻿using System.Linq;
 
-namespace TestLib
+namespace TestLibNotWorking
 {
-    public class Class1
+    public class NotWorking
     {
-        public Class1()
+        public NotWorking()
         {
             var str = "hallo this 1 should be filterable";
             var someOthBool = str.Any(c => c == '1');
